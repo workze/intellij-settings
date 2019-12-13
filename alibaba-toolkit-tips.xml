@@ -2,6 +2,7 @@
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
     <entry projectName="allcodes" firstStartUp="false" />
+    <entry projectName="j2020" firstStartUp="false" />
     <entry projectName="web-test" firstStartUp="false" />
   </component>
 </application>
