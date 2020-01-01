@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="PG性能测试" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
     </extensionMap>
